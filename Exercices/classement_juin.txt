@@ -1,0 +1,48 @@
+classement 2016:
+      5 Espagne
+      5 Floride
+      5 Italie
+      5 Orlando
+      5 Russie
+      5 Saint-Étienne
+      5 États-Unis
+      6 Lyon
+      6 Villeneuve-d'Ascq
+      8 Nice
+      9 Marseille
+      9 Saint-Denis
+     10 Europe
+     14 Paris
+     43 France
+classement 2017:
+      2 Iran
+      2 Italie
+      2 Kinshasa
+      2 Kitzbühel
+      2 Leeds
+      3 Arabie Saoudite
+      3 Doel
+      3 Tihange
+      3 Égypte
+      4 Europe
+      4 Londres
+      5 Israël
+      5 Qatar
+      6 France
+      7 Paris
+classement 2018:
+      2 Bangladesh
+      2 Guatemala
+      2 Japon
+      2 Osaka
+      2 Terre
+      3 Birmanie
+      3 France
+      3 Guyane
+      3 Suriname
+      3 États-Unis
+      4 Colombie
+      4 Hongrie
+      5 Caraïbes
+      6 Lune
+      6 Myanmar

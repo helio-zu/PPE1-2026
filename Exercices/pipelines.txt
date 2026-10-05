@@ -1,0 +1,29 @@
+1a.
+echo "Annotaitons en 2016:" > comptes.txt
+cat Exercice1/ann/2016/*.ann | wc -l >> comptes.txt
+echo "Annotaitons en 2017:" >> comptes.txt
+cat Exercice1/ann/2017/*.ann | wc -l >> comptes.txt
+echo "Annotaitons en 2018:" >> comptes.txt
+cat Exercice1/ann/2018/*.ann | wc -l >> comptes.txt
+
+1b.
+echo  "Locations en 2016:" > locations.txt
+cat Exercice1/ann/2016/*.ann | grep Location | wc -l >> locations.txt
+echo  "Locations en 2017:" >> locations.txt
+cat Exercice1/ann/2017/*.ann | grep Location | wc -l >> locations.txt
+echo  "Locations en 2018:" >> locations.txt
+cat Exercice1/ann/2018/*.ann | grep Location | wc -l >> locations.txt
+
+2a.
+cat Exercice1/ann/2016/*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -n | tail -15 > classement_2016.txt
+at Exercice1/ann/2017/*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -n | tail -15 > classement_2017.txt
+cat Exercice1/ann/2018/*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -n | tail -15 > classement_2018.txt
+
+2b. 
+echo "classement 2016:" > classement_juin.txt
+cat Exercice1/ann/2016/2016_06*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -n | tail -15 >> classement_juin.txt
+echo "classement 2017:" >> classement_juin.txt
+cat Exercice1/ann/2017/2017_06*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -n | tail -15 >> classement_juin.txt
+echo "classement 2018:" >> classement_juin.txt
+cat Exercice1/ann/2018/2018_06*.ann | grep Location | cut -f 3 | sort | uniq -c | sort -n | tail -15 >> classement_juin.txt
+
