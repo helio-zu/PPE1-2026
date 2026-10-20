@@ -7,3 +7,6 @@ Ensuite, pour l'exercice *git-introduction*, j'ai pu utiliser git log pour voir 
 J'ai donc fait un git pull pour mettre à jour le dépôt sur ma machine et j'ai refait git log pour voir que que l'action a été bien fait du dépôt.
 
 L'exercice *pipelines* a été particulièrement difficile car il m'a pris beaucoup de temps pour comprendre les commandes et leurs options ainsi que les instrucitons données. J'ai dû demander de l'aide à mes camarades. Néanmoins, j'ai pu m'en sortir.
+
+## Séance 3
+### exercices git
