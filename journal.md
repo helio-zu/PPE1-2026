@@ -12,3 +12,5 @@ L'exercice *pipelines* a été particulièrement difficile car il m'a pris beauc
 ### exercices git
 
 lorem ipsum
+
+Cette ligne doit rester après correction.
