@@ -10,3 +10,5 @@ L'exercice *pipelines* a été particulièrement difficile car il m'a pris beauc
 
 ## Séance 3
 ### exercices git
+
+lorem ipsum
